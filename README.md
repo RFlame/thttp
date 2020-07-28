@@ -5,6 +5,11 @@
 - 项目依赖：
 
 ```
+dependencies:
+  thttp: ^0.0.2
+
+  or
+
 thttp:
   git:
     url: https://github.com/RFlame/thttp.git
